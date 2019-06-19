@@ -1,2 +1,2 @@
 # git_tests
-Simple repo for testing purpose
+Simple repo for testing purpose.
